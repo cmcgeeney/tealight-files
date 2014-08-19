@@ -12,4 +12,4 @@ turn (1)
 move ()
 move ()
 left_side ()
-if touch() == 'wall':
+if touch() == 'wall'
