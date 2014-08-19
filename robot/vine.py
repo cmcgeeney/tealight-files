@@ -24,4 +24,4 @@ def go():
     move()
   turn(2)
   
-go
+go()
